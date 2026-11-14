@@ -38,6 +38,33 @@ PASS
 test_farkli_fps
 
 PASS
+#
+Girdi
+Beklenen
+Gerçek
+Sonuç
+
+
+1
+Ad: Giriş, süre: 10, fps: 24
+240 kare, 10.0 gün, sınıf Orta
+240 kare, 10.0 gün, Orta
+✔
+2
+Süre: abc
+Uyarı verir, tekrar sorar
+“Lütfen geçerli bir sayı girin.” yazdı, tekrar sordu
+✔
+3
+Süre: -5
+“0'dan büyük olmalı” uyarısı
+“Değer 0'dan büyük olmalı.” yazdı
+✔
+
+
+4 Süre (saniye): 4        Eklendi: test -> 48 kare   Eklendi: test -> 48 kare                    ✔
+FPS : 12
+
 
 Total: 5 tests
 Passed: 5
