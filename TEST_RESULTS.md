@@ -66,6 +66,27 @@ Süre: -5
 FPS : 12
 
 
+1-Sahne ekle  2-Listele  3-CSV'ye kaydet  4-Çıkış
+Seçiminiz: 4
+Çıkılıyor.
+PS C:\Users\MERYEM\Desktop\scene-frame-calculator>
+ 
+1-Sahne ekle  2-Listele  3-CSV'ye kaydet  4-Çıkış
+Seçiminiz: test
+Uyarı: 1-4 arasında bir seçim yapın.
+1-Sahne ekle  2-Listele  3-CSV'ye kaydet  4-Çıkış
+Seçiminiz: 1
+Sahne adı: test
+Süre (saniye): abc
+Uyarı: Lütfen geçerli bir sayı girin.
+Süre (saniye): -5
+Uyarı: Değer 0'dan büyük olmalı.
+Süre (saniye): 4
+FPS (örn. 12, 24, 30): 12
+Eklendi: test -> 48 kare
+ 
+
+
 Total: 5 tests
 Passed: 5
 Failed: 0
