@@ -4,4 +4,6 @@ Kararım: Kodu çalıştır
 Prompt: “Ben nasıl test edeceğim?”
 YZ’nin yanıtı: Çalıştırma adımlarını ve 12 test senaryosunu verdi.
 Kararım: Hangi senaryoları seçtiğini, hangilerini bıraktığını yaz.
-Prompt: “Terminal nedir?” ve 5. Prompt: “Test tablosunu daha detaylı anlat” gibi mesajlar da sayılır.
+Prompt: “Terminal nedir?”
+Prompt: çalıştırdım ve test ettim hepsi çalışıyor şimdi ne yapmalıyım?
+Test tablosunu tamamla
